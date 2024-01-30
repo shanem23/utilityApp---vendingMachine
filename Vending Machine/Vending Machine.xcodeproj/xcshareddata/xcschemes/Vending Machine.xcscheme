@@ -35,7 +35,7 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       launchStyle = "0"
       useCustomWorkingDirectory = "YES"
-      customWorkingDirectory = "/Users/Shane23/Desktop/Vending Machine/Vending Machine"
+      customWorkingDirectory = "/Users/Shane23/Documents/GitHub/utilityApp - vendingMachine/Vending Machine"
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
